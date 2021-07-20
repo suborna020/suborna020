@@ -2,9 +2,9 @@
 
 ### :zap: Connect with me: :zap:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][instagram]
+[<img align="left" alt="suborna020" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="suborna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suborna | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -37,3 +37,5 @@
 [website]: https://suborna020.github.io/my-portfolio
 [linkedin]: https://www.linkedin.com/in/amzsuborna4/
 [Instagram]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[facebook]: https://www.facebook.com/suborna.ayaath.79/
+  
