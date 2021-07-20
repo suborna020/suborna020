@@ -8,11 +8,11 @@
 
 
 ###  📕 Skills  📕: 
-{
+[{
  "▣ Expertise"     : ["JavaScript", "ES6", "Vue", "React","PHP", "Laravel" , "Bootstrap", "HTML5", "CSS3", "Chrome Dev Tool", ..more],
   "▣ Confidential"  : ["MYSQL", "SASS","Material Design UI","JQuery"],
   "▣ Tools"         : ["Git" ,"Docker","Chrome Dev Tool"," VS Code","Slack", ..more]
-}
+}]
 
 ### Languages and Tools:
 
