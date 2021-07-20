@@ -6,16 +6,14 @@
 [<img align="left" alt="suborna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="suborna | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
-<br />
-<br />
-###  📕 Skills:  📕
+
+###  📕 Skills  📕: 
 -{
 - "▣ Expertise"     : ["JavaScript", "ES6", "Vue", "React","PHP", "Laravel" , "Bootstrap", "HTML5", "CSS3", "Chrome Dev Tool", ..more],
 -  "▣ Confidential"  : ["MYSQL", "SASS","Material Design UI","JQuery"]
 -  "▣ Tools"         : ["Git" ,"Docker","Chrome Dev Tool"," VS Code","Slack", ..more]
 -}
-<br />
-<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
