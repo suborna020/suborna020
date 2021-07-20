@@ -7,12 +7,14 @@
 [<img align="left" alt="suborna | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
+<br />
 ###  📕 Skills  📕
 {
   "▣ Expertise"     : ["JavaScript", "ES6", "Vue", "React","PHP", "Laravel" , "Bootstrap", "HTML5", "CSS3", "Chrome Dev Tool", ..more],
   "▣ Confidential"  : ["MYSQL", "SASS","Material Design UI","JQuery"]
   "▣ Tools"         : ["Git" ,"Docker","Chrome Dev Tool"," VS Code","Slack", ..more]
 }
+<br />
 <br />
 ### Languages and Tools:
 
